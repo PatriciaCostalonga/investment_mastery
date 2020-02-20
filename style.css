@@ -113,7 +113,7 @@ body {
 #name, #email, #lastname, #telephone{
   margin: 2%;
   padding: 3%;
-  border-radius: 10px;
+  border-radius: 2px;
   font-size: 1em;
   background-color: #ebebeb;
   text-align: center;
@@ -150,14 +150,6 @@ body {
   flex-direction: column;
   margin: 2%;
 }
-
-/* #title_learn h3{
-  margin-top: 1.5em;
-  padding-bottom: 0.5em;
-  font-size: 4rem;
-  line-height: 1em;
-  text-align: center;
-} */
 
 #learn_list{
   display: flex;
